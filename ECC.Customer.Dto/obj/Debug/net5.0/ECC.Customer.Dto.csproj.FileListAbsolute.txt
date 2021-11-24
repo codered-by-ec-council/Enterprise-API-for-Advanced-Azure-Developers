@@ -1,0 +1,48 @@
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\bin\Debug\net5.0\ref\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ref\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ref\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.deps.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Debug\net5.0\ref\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb

@@ -1,0 +1,95 @@
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\appsettings.Development.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\appsettings.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.exe
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.runtimeconfig.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.runtimeconfig.dev.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ref\ECC.Customer.WebApi.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Newtonsoft.Json.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Polly.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.BusinessFacade.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.DataAccessLayer.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\staticwebassets\ECC.Customer.WebApi.StaticWebAssets.Manifest.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\staticwebassets\ECC.Customer.WebApi.StaticWebAssets.xml
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\scopedcss\bundle\ECC.Customer.WebApi.styles.css
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.RazorTargetAssemblyInfo.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.csproj.CopyComplete
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ref\ECC.Customer.WebApi.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.genruntimeconfig.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\appsettings.Development.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\libman.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\appsettings.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.exe
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.deps.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.runtimeconfig.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.runtimeconfig.dev.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ref\ECC.Customer.WebApi.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.WebApi.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Polly.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.BusinessFacade.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.BusinessFacade.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\ECC.Customer.DataAccessLayer.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.csproj.AssemblyReference.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.AssemblyInfoInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.AssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.csproj.CoreCompileInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\staticwebassets\ECC.Customer.WebApi.StaticWebAssets.Manifest.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\staticwebassets\ECC.Customer.WebApi.StaticWebAssets.xml
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\scopedcss\bundle\ECC.Customer.WebApi.styles.css
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.RazorTargetAssemblyInfo.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ref\ECC.Customer.WebApi.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\obj\Release\net5.0\ECC.Customer.WebApi.genruntimeconfig.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.WebApi\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll

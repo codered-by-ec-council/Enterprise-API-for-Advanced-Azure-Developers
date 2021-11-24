@@ -1,0 +1,68 @@
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CopyComplete
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CopyComplete
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CopyComplete
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.deps.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.AssemblyReference.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfoInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.AssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CoreCompileInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.csproj.CopyComplete
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ref\ECC.Customer.BusinessFacade.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.BusinessFacade\obj\Debug\net5.0\ECC.Customer.BusinessFacade.pdb

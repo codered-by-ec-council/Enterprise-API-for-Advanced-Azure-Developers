@@ -1,0 +1,235 @@
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\testhost.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\testhost.exe
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.runtimeconfig.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.runtimeconfig.dev.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ref\ECC.Customer.MSTests.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Castle.Core.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Moq.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\Polly.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\System.Data.SqlClient.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.CopyComplete
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ref\ECC.Customer.MSTests.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.genruntimeconfig.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ref\ECC.Customer.MSTests.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\testhost.exe
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\testhost.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.runtimeconfig.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.runtimeconfig.dev.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ref\ECC.Customer.MSTests.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.MSTests.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Castle.Core.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Moq.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\Polly.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.BusinessFacade.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.BusinessFacade.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.csproj.CopyComplete
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.MSTests\obj\Debug\net5.0\ECC.Customer.MSTests.genruntimeconfig.cache

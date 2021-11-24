@@ -1,0 +1,24 @@
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Release\net5.0\ref\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ref\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.deps.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Release\net5.0\ref\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\bin\Release\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ref\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Release\net5.0\ECC.Customer.Dto.pdb

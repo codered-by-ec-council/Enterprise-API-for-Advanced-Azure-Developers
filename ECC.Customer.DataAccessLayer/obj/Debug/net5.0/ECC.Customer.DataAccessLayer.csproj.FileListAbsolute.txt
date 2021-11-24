@@ -1,0 +1,60 @@
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CopyComplete
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.deps.json
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.AssemblyReference.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfoInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfo.cs
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CopyComplete
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+Z:\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.deps.json
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.AssemblyReference.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfoInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfo.cs
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CopyComplete
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+\\nas01\Software Projects\EC Council\Source Code\ECC.Customer - Logging\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.deps.json
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.AssemblyReference.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfoInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfo.cs
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CopyComplete
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
