@@ -58,3 +58,18 @@ C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debu
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.deps.json
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.AssemblyReference.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfoInputs.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.AssemblyInfo.cs
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.csproj.CopyComplete
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ref\ECC.Customer.DataAccessLayer.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.DataAccessLayer\obj\Debug\net5.0\ECC.Customer.DataAccessLayer.pdb

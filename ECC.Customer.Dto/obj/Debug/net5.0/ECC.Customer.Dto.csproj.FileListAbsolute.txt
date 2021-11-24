@@ -46,3 +46,15 @@ C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
 C:\@Projects\ECC.Customer - Authentication\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.deps.json
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\bin\Debug\net5.0\ref\ECC.Customer.Dto.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\bin\Debug\net5.0\ECC.Customer.Dto.pdb
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.AssemblyReference.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfoInputs.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.AssemblyInfo.cs
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.csproj.CoreCompileInputs.cache
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ref\ECC.Customer.Dto.dll
+D:\EC Council\ECC.Customer - Final\ECC.Customer.Dto\obj\Debug\net5.0\ECC.Customer.Dto.pdb
