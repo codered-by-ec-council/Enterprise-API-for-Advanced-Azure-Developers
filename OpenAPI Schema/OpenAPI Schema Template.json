@@ -1,0 +1,28 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+  
+  },
+  "servers": [
+    {
+      "url": "http://mysample.api.com/v1/customers"
+    }
+  ],
+  "paths": {
+  
+  },
+  "components": {
+    "schemas": {
+
+    },
+    "parameters": {
+
+    },
+    "headers": {
+
+    },
+    "responses": {
+
+    }
+  }
+}

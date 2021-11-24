@@ -1,0 +1,427 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "version": "1.0.0",
+    "title": "ECC Customer Maintenance",
+    "description": "Api to maintain retail customers for the online mall.",
+    "contact": {
+      "name": "EC Council Ltd",
+      "email": "support@eccouncil.com",
+      "url": "https//eccouncil.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://mysample.api.com/v1/customers"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "Get all customers",
+        "description": "Return all retail customers. There is no filtering provided.",
+        "operationId": "GetCustomers",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/session-id"
+          },
+          {
+            "$ref": "#/components/parameters/correlation-id"
+          }
+        ],
+        "responses": {
+          "200": {
+           "$ref":"#/components/responses/200-customers-entity"
+          },
+          "401": {
+            "$ref": "#/components/responses/401-unauthorised"
+          }
+        }
+      },
+      "post": {
+        "summary": "Save retail customer",
+        "description": "Saves a retail customer and returns the new Id in the response header",
+        "operationId": "PostCustomer",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/session-id"
+          },
+          {
+            "$ref": "#/components/parameters/correlation-id"
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/customer"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "$ref": "#/components/responses/201-created"
+          },
+          "400": {
+            "$ref": "#/components/responses/400-bad-request"
+          },
+          "401": {
+            "$ref": "#/components/responses/401-unauthorised"
+          }
+        }
+      }
+    },
+    "/{customerId}": {
+      "get": {
+        "summary": "Find a customer by Id",
+        "description": "Return the customer using the primary key.",
+        "operationId": "GetCustomerById",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/customer-id"
+          },
+          {
+            "$ref": "#/components/parameters/session-id"
+          },
+          {
+            "$ref": "#/components/parameters/correlation-id"
+          }
+        ],
+        "responses": {
+          "200": {
+           "$ref": "#/components/responses/200-customer-entity"
+          },
+          "400": {
+            "$ref": "#/components/responses/400-bad-request"
+          },
+          "401": {
+            "$ref": "#/components/responses/401-unauthorised"
+          },
+          "404": {
+            "$ref": "#/components/responses/404-not-found"
+          }
+        }
+      },
+      "put": {
+        "summary": "Update customer by Id",
+        "description": "Updates the customer",
+        "operationId": "PutCustomerById",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/if-match"
+          },
+          {
+            "$ref": "#/components/parameters/session-id"
+          },
+          {
+            "$ref": "#/components/parameters/correlation-id"
+          },
+          {
+            "$ref": "#/components/parameters/customer-id"
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/customer"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Customer saved successfully",
+            "content": {}
+          },
+          "400": {
+            "$ref": "#/components/responses/400-bad-request"
+          },
+          "401": {
+            "$ref": "#/components/responses/401-unauthorised"
+          },
+          "404": {
+            "$ref": "#/components/responses/404-not-found"
+          },
+          "412": {
+            "$ref": "#/components/responses/412-precondition-failed"
+          }
+        }
+      },
+      "delete": {
+        "summary": "Delete customer by Id",
+        "description": "Delete the customer by Id and if the etag matches the record on the server.",
+        "operationId": "DeleteCustomerById",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/if-match"
+          },
+          {
+            "$ref": "#/components/parameters/session-id"
+          },
+          {
+            "$ref": "#/components/parameters/correlation-id"
+          },
+          {
+            "$ref": "#/components/parameters/customer-id"
+          }
+        ],
+        "responses": {
+          "204": {
+            "$ref": "#/components/responses/204-no-content"
+          },
+          "400": {
+            "$ref": "#/components/responses/400-bad-request"
+          },
+          "401": {
+            "$ref": "#/components/responses/401-unauthorised"
+          },
+          "404": {
+            "$ref": "#/components/responses/404-not-found"
+          },
+          "412": {
+            "$ref": "#/components/responses/412-precondition-failed"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "customer": {
+        "title": "Customer",
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string"
+          },
+          "lastName": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "Phone": {
+            "type": "string"
+          },
+          "postalAddress": {
+            "$ref": "#/components/schemas/address"
+          }
+        }
+      },
+      "address": {
+        "title": "Address",
+        "type": "object",
+        "properties": {
+          "address1": {
+            "type": "string"
+          },
+          "address2": {
+            "type": "string"
+          },
+          "city": {
+            "type": "string"
+          },
+          "zipCode": {
+            "type": "integer"
+          }
+        }
+      },
+      "customer-response": {
+        "title": "Customer response",
+        "allOf": [
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "format": "int32",
+                "description": "This is the primary key of the record"
+              }
+            }
+          },
+          {
+            "$ref": "#/components/schemas/customer"
+          }
+        ]
+      },
+      "customers-response": {
+        "title": "Customers response",
+        "type": "array",
+        "items": {
+          "allOf": [
+            {
+              "type": "object",
+              "properties": {
+                " ETag": {
+                  "type": "string",
+                  "description": "Record timestamp used for optimistic locking"
+                }
+              }
+            },
+            {
+              "$ref": "#/components/schemas/customer-response"
+            }
+          ]
+        }
+      }
+    },
+    "parameters": {
+      "customer-id": {
+        "name": "customerId",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      "session-id": {
+        "name": "X-Session-Id",
+        "in": "header",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      "correlation-id": {
+        "name": "X-Correlation-Id",
+        "in": "header",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      "if-match": {
+        "name": "If-Match",
+        "description": "Set this to the etag value received from the initial GET request.",
+        "in": "header",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      }
+    },
+    "headers": {
+      "etag": {
+        "description": "Record timestamp for optimistic locking sent back in the response header.",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      "location": {
+        "description": "The uri of the newly created entity",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      }
+    },
+    "responses": {
+      "200-customer-entity": {
+        "description": "Get customer and provide etag",
+        "headers": {
+          "ETag": {
+            "$ref": "#/components/headers/etag"
+          }
+        },
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/customer-response"
+            }
+          }
+        }
+      },
+      "200-customers-entity": {
+        "description": "",
+        "headers": {
+          "ETag": {
+            "$ref": "#/components/headers/etag"
+          }
+        },
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/customers-response"
+            }
+          }
+        }
+      },
+      "201-created": {
+        "description": "The customer was created successfully and returns the uri of the new asset.",
+        "headers": {
+          "Location":{
+            "$ref": "#/components/headers/location"
+          }
+        }
+      },
+      "204-no-content": {
+        "description": "Succeeded and no cotent to return in the response",
+        "content": {}
+      },
+      "304-not-modified": {
+        "description": "Entity was not modified. Possibly because etag did not match",
+        "content": {}
+      },
+      "400-bad-request": {
+        "description": "Invalid requst was sent by the client.",
+        "content": {
+          "application/json": {
+            "schema": {
+              "description": "Bad request",
+              "required": [
+                "message"
+              ],
+              "type": "object",
+              "properties": {
+                "message": {
+                  "type": "string",
+                  "description": "Human readable error message text"
+                },
+                "errorCode": {
+                  "type": "string",
+                  "description": "Error code"
+                }
+              }
+            }
+          }
+        }
+      },
+      "401-unauthorised": {
+        "description": "Unauthorised access",
+        "content": {}
+      },
+      "404-not-found": {
+        "description": "Customer not found",
+        "content": {}
+      },
+      "412-precondition-failed": {
+        "description": "Precondition failed",
+        "content": {
+          "application/json": {
+            "schema": {
+              "description": "Typically etag values do not match.",
+              "required": [
+                "message"
+              ],
+              "type": "object",
+              "properties": {
+                "message": {
+                  "type": "string",
+                  "description": "Human readable error message text."
+                },
+                "errorCode": {
+                  "type": "string",
+                  "description": "Error code"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
